@@ -8,6 +8,7 @@
 2.adidasshoe 学习了clipwidget相关的使用，别的基本都是基本控件不难
 原项目地址 https://github.com/devefy/Flutter-Adidas-Shoes-Ecommerce-App-UI
 ![image](https://github.com/loulousky/FlutterPractise/blob/master/demo%E5%9B%BE%E7%89%87/TIM%E5%9B%BE%E7%89%8720190722173707.jpg)
+
 ![image](https://github.com/loulousky/FlutterPractise/blob/master/demo%E5%9B%BE%E7%89%87/TIM%E5%9B%BE%E7%89%8720190722173711.jpg)
 
 3 导航页实现 
@@ -17,6 +18,12 @@
 4 漂亮的卡片界面cardui
 原项目地址 https://github.com/devefy/Flutter-Story-App-UI
 ![image](https://github.com/loulousky/FlutterPractise/blob/master/demo%E5%9B%BE%E7%89%87/TIM%E5%9B%BE%E7%89%8720190724155854.png)
+
+5 很绿色的植物商店greenapp
+原项目地址 https://github.com/JoonasN/Flutter-Speed-coding---Greenery-App
+![image](https://github.com/loulousky/FlutterPractise/blob/master/demo%E5%9B%BE%E7%89%87/TIM%E5%9B%BE%E7%89%8720190725141356.png)
+
+![image](https://github.com/loulousky/FlutterPractise/blob/master/demo%E5%9B%BE%E7%89%87/TIM%E5%9B%BE%E7%89%8720190725141405.png)
 
 
 持续更新中

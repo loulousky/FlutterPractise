@@ -25,5 +25,6 @@
 
 ![image](https://github.com/loulousky/FlutterPractise/blob/master/demo%E5%9B%BE%E7%89%87/TIM%E5%9B%BE%E7%89%8720190725141405.png)
 
-
+6 时钟
+![image](https://github.com/loulousky/FlutterPractise/blob/master/myclock/clock.gif)
 持续更新中
